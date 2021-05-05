@@ -1,5 +1,9 @@
 # ECS-193B-Testing-Repo
 
+Author:  
+Raymond Chan, Yifan Liu, Hongnan Chen, Michael Xiao. 
+
+Links:  
 Resume Scanner Code (Google Colab access):   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://colab.research.google.com/drive/14P7l3_mlkv9G98VqeDFBUauqxjAuf2vi?usp=sharing  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOTE: Be sure to "Copy To Drive" in order to modify the Code as needed. 
