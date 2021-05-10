@@ -1,4 +1,4 @@
-# ResumeScanner
+# Resume Scanner
 
 Author:  
 Raymond Chan, Yifan Liu, Hongnan Chen, Michael Xiao. 
